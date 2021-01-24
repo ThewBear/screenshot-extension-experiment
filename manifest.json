@@ -1,0 +1,10 @@
+{
+  "name": "Capture",
+  "version": "1.0",
+  "description": "Capture!",
+  "manifest_version": 3,
+  "permissions": ["tabCapture", "activeTab", "debugger"],
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
